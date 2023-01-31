@@ -1,0 +1,39 @@
+a {text-decoration: none; color: black}
+h1 {font-size: 28pt;}
+h3 {margin-bottom: 0px;}
+hr {margin-top: 0px;}
+p {margin-left: 30px;}
+
+#Name {
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+#Education p {
+    font-size: 14pt;
+}
+#Education li {
+    margin-left: 65px;
+}
+
+#Work_Experience li {
+    margin-left: 45px;
+}
+
+#Work_Experience p {
+    font-size: 14pt;
+    margin-bottom:  0px;
+}
+
+#Skills li {
+    margin-left: 15px;
+}
+
+.left{
+    float:left;
+}
+
+.right{
+    float:right;
+    margin-right: 10px;
+}
