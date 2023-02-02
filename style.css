@@ -9,6 +9,7 @@ p {margin-left: 30px;}
     margin-bottom: 8px;
 }
 
+/* Style in Education section */
 #Education p {
     font-size: 14pt;
 }
@@ -16,6 +17,7 @@ p {margin-left: 30px;}
     margin-left: 65px;
 }
 
+/* Style in Work Experience section */
 #Work_Experience li {
     margin-left: 45px;
 }
@@ -25,6 +27,7 @@ p {margin-left: 30px;}
     margin-bottom:  0px;
 }
 
+/* Style in Skills section */
 #Skills li {
     margin-left: 15px;
 }
