@@ -3,14 +3,12 @@
   "version": "1.0.0",
   "description": "Author: Julie Dosher, juliegdosher@lewisu.edu   Project: CPSC 440, Sprint 2 - Web Resume   https://juliedosher-cpsc440-webresume.azurewebsites.net/",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+ 
   "repository": {
     "type": "git",
     "url": "git+https://github.com/juliedosher/CPSC440_WebResume.git"
   },
-  "author": "",
+  "author": "Julie Dosher",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/juliedosher/CPSC440_WebResume/issues"
