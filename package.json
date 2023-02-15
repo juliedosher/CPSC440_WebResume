@@ -10,6 +10,9 @@
   },
   "author": "Julie Dosher",
   "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+},
   "bugs": {
     "url": "https://github.com/juliedosher/CPSC440_WebResume/issues"
   },

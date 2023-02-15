@@ -7,7 +7,7 @@ const port = process.env.PORT || 8080;
 app.use(express.static(path.join(__dirname, 'static')));   
 
 app.get('/', function(req, res) {
-  res.render('index.html');
+  res.render('/index.html');
 });
 
 app.listen(port);
