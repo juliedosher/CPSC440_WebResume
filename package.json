@@ -1,7 +1,7 @@
 {
   "name": "cpsc440_webresume",
   "version": "1.0.0",
-  "description": "Author: Julie Dosher, juliegdosher@lewisu.edu   Project: CPSC 440, Sprint 2 - Web Resume   https://juliedosher-cpsc440-webresume.azurewebsites.net/",
+  "description": "Project: CPSC 440, Sprint 2 - Web Resume",
   "main": "index.js",
  
   "repository": {
